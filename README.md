@@ -1,4 +1,4 @@
-#live demo: https://user-explore.netlify.app/
+live demo: https://user-explore.netlify.app/
 # User-explorer
 
 User explorer is a simple web application that allows users to browse through a list of users and view their details.
