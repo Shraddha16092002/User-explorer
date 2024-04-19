@@ -1,0 +1,53 @@
+li {
+    background-color: #fff;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+    list-style: none;
+  }
+  #user-list{
+    margin: 0% 4%;
+  }
+li:hover {
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  h4 {
+    /* font-weight: bold;
+    margin-bottom: 5px; */
+    font-size: 24px;
+  font-weight: bold;
+  color: #333; /* or any color of your choice */
+  margin-bottom: 5px;
+  text-transform: capitalize; /* capitalize the first letter of each word */
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+  transition: transform 1.3s ease;
+  }
+  h4:hover {
+    transform: scale(1.0) translateX(32px);
+  }
+  p {
+    color: #666;
+  }
+  .foot{
+    height: 7px !important;
+    background-color: #e8ebed !important;
+  }
+  .title{
+    font-size: 2rem !important;
+    font-weight: bold;
+    color: #ff6f61 !important; /* Coral color */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+  }
+  /* Responsive styles */
+  @media screen and (max-width: 768px) {
+    .container {
+      padding: 10px;
+    }
+  
+    .user-item {
+      padding: 10px;
+    }
+  }
