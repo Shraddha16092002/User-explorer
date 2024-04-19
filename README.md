@@ -21,5 +21,5 @@ User explorer is a simple web application that allows users to browse through a 
 ## Getting Started
 
 1. Clone the repository:
-   git clone <repository-url>
+   git clone [repository-url](https://github.com/Shraddha16092002/User-explorer.git)
 2. open index.html on any browser
